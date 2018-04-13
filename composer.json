@@ -16,7 +16,7 @@
             "src/"
         ],
         "psr-4": {
-            "Yk\\LaravelPackageExample\\": "src/"
+            "Sfkazmi\\Priema\\": "src/"
         }
     }
 }
