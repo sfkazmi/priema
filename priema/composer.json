@@ -1,0 +1,13 @@
+{
+    "name": "sfkazmi/priema",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syed Faisal",
+            "email": "sfkazmi0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
