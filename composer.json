@@ -1,6 +1,7 @@
 {
     "name": "sfkazmi/priema",
     "type": "laravel",
+    "description": "A Laravel package example.",
     "license": "MIT",
     "authors": [
         {
@@ -9,5 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "psr-4": {
+            "Yk\\LaravelPackageExample\\": "src/"
+        }
+    }
 }
